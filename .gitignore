@@ -1,0 +1,11 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+datacleanbot/tests/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
