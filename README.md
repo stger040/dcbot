@@ -50,7 +50,3 @@ For Windows, you need to have C++ Compiler installed.
     * **Outliers**
 
 The two aspects ``datacleanbot`` meaningfully automates are marked in bold.
-
-## User's Guide
-
-The user's guide can be found at [datacleanbot](https://datacleanbot.readthedocs.io/en/latest/).
